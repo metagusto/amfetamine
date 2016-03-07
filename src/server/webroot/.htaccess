@@ -1,0 +1,4 @@
+Options +FollowSymLinks 
+RewriteEngine on 
+
+RewriteRule ^gateway.amf$  gateway.php [L]
